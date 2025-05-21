@@ -10,6 +10,6 @@ public class Controller {
     @GetMapping("/user")
     public String display()
     {
-        return "spring project";
+        return "spring";
     }
 }
